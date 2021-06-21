@@ -1,2 +1,2 @@
 # DSAssignment1
-Degree Assignment wrote by java with JDBC
+Distributed System Assignment wrote by java with JDBC
